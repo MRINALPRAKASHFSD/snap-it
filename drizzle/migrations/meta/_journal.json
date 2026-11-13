@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794056990711,
+      "tag": "0000_phase1_foundation",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794198319890,
+      "tag": "0001_lens_phase_two_social",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794371447103,
+      "tag": "0002_fix_social_points_trigger_dispatch",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1794589100430,
+      "tag": "0003_phase2_privacy_blocking_hardening",
+      "breakpoints": true
+    }
+  ]
+}
